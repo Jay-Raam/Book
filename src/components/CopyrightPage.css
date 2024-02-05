@@ -1,0 +1,24 @@
+/* CopyrightPage.css */
+.copyright-container {
+    align-items: center;
+    border-top: 2px solid #00000063;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.copyright-content {
+  text-align: center;
+}
+
+.copyright-content h3 {
+  font-size: 20px;
+  margin: 20px;
+}
+
+.link {
+  color: black;
+  text-decoration: none;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
